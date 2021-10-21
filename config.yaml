@@ -1,0 +1,111 @@
+baseURL: http://ch-baubier.netlify.app/
+languageCode: en-us
+title: Website of Chloé Baubier
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Find out more
+    subtitle: |-
+      A website created by Chloé Baubier
+     # AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Movie Analytics
+  blog: {}
+  contact:
+    address:
+      - city: London, NW1 4SA
+        country: United Kingdom
+        street: Regent's Park
+        title: London Business School
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: cbaubier@gmail.com
+        title: Email
+    enable: yes
+    phone:
+      - phone: 020 7000 7000
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: Movie Analytics
+    enable: yes
+    quicklinks:
+     # - alt: HTML5 UP
+     #   text: 'Design: '
+     #   url: https://www.html5up.net
+    social:
+     # - icon: fa-twitter
+     #   label: Twitter
+     #   url: https://www.twitter.com
+     # - icon: fa-facebook
+     #   label: Facebook
+     #   url: https://www.facebook.com
+     # - icon: fa-instagram
+     #   label: Instagram
+     #   url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://www.github.com/cbaubier/
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/chloe-baubier-77340/
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+     # - name: Get Started
+     #   url: blogs
+    button2:
+      #- name: Log In
+      #  url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Currently showing
+        url: blogs
+     # - name: Generic Blog
+     #   url: blogs/ipsum
+     # - name: Elements
+     #   url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Home
+  tiles:
+    enable: yes
+    showcase:
+      - image: projects/image1.jpg
+      #  subtitle: Ipsum Dolor Sit Amet
+        title: About me
+        url: projects/project0
+      - image: projects/image2.jpg
+        subtitle: Quick analysis of the most successful films
+        title: Rolling!
+        url: projects/project1
+      - image: projects/image3.jpg
+        #subtitle: Lorem Etiam Nullam
+        title: Spielberg vs. Burton
+        url: projects/project2
+      - image: projects/image4.jpg
+       # subtitle: Nisl Sed Aliquam
+        title: 2020 was a wrack
+        url: projects/project3
+
+  two:
+    buttonText: Learn more
+    enable: yes
+    #subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    #  \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+    #  condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+    #  pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+     # Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+     # amet pharetra et feugiat tempus."
+    title: Currently showing in London
+    url: blogs
